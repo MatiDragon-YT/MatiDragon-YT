@@ -1,3 +1,3 @@
-### Welcome to the profile of my repositories! 👋
+### Hi, welcome! 👋
 
-I'm currently working on technologies on the frontend & backend side, to improve the experience of web content development 😁
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiDragon-YT&layout=compact)
